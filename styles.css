@@ -1,0 +1,583 @@
+body
+{
+	text-align:center;
+	background-color:#524C84;
+}
+hr
+{
+	background-color:black;
+	height:3px;
+	margin:0px;
+	border:0px;
+	position:absolute;
+}
+.t
+{
+	border:10px solid #404B69;
+	font-size:0.65rem;
+	font-family:'Arvo',cursive;
+	font-weight:900;
+	line-height:2;
+	color:#494953;
+	border-radius:15px;
+	width:65px;
+	height:65px;
+	margin:0px;
+	position:absolute;
+}
+.pressed
+{
+	box-shadow:0 3px 4px 0 #DBEDF3;
+	opacity:0.5;
+}
+#container
+{
+	position:absolute;
+	width:600px;
+	height:600px;
+	left:468px;
+	top:76.8px;
+}
+#l1
+{
+	width:123.29px;
+	left:71.3322px;
+	top:98.5846px;
+	-webkit-transform:rotate(-1.9775rad);
+}
+#l2
+{
+	width:143.344px;
+	left:97.2272px;
+	top:225.939px;
+	-webkit-transform:rotate(-1.73246rad);
+}
+#l3
+{
+	width:136.159px;
+	left:29.8353px;
+	top:122.024px;
+	-webkit-transform:rotate(-2.63257rad);
+}
+#l4
+{
+	width:116.593px;
+	left:127.397px;
+	top:104.252px;
+	-webkit-transform:rotate(-4.20491rad);
+}
+#l5
+{
+	width:106.45px;
+	left:153.882px;
+	top:174.133px;
+	-webkit-transform:rotate(-2.77794rad);
+}
+#l6
+{
+	width:108.465px;
+	left:54.6754px;
+	top:179.558px;
+	-webkit-transform:rotate(-3.60738rad);
+}
+#l7
+{
+	width:119.606px;
+	left:243.836px;
+	top:491.858px;
+	-webkit-transform:rotate(-4.2961rad);
+}
+#l8
+{
+	width:126.364px;
+	left:258.975px;
+	top:374.235px;
+	-webkit-transform:rotate(-1.66057rad);
+}
+#l9
+{
+	width:138.831px;
+	left:303.999px;
+	top:489.505px;
+	-webkit-transform:rotate(-2.28739rad);
+}
+#l10
+{
+	width:117.512px;
+	left:324.992px;
+	top:419.149px;
+	-webkit-transform:rotate(-3.45318rad);
+}
+#l11
+{
+	width:123.989px;
+	left:204.298px;
+	top:429.575px;
+	-webkit-transform:rotate(-3.0189rad);
+}
+#l12
+{
+	width:139.631px;
+	left:279.417px;
+	top:544.2px;
+	-webkit-transform:rotate(-3.17531rad);
+}
+#l13
+{
+	width:125.352px;
+	left:154.161px;
+	top:543.89px;
+	-webkit-transform:rotate(-3.09908rad);
+}
+#l14
+{
+	width:145.244px;
+	left:169.488px;
+	top:484.271px;
+	-webkit-transform:rotate(-2.11094rad);
+}
+#l15
+{
+	width:136.841px;
+	left:180.043px;
+	top:303.992px;
+	-webkit-transform:rotate(-3.03447rad);
+}
+#l16
+{
+	width:139.653px;
+	left:269.912px;
+	top:245.464px;
+	-webkit-transform:rotate(-4.373rad);
+}
+#l17
+{
+	width:152.457px;
+	left:301.855px;
+	top:356.222px;
+	-webkit-transform:rotate(-2.51151rad);
+}
+#l18
+{
+	width:136.169px;
+	left:313.351px;
+	top:290.866px;
+	-webkit-transform:rotate(-3.44653rad);
+}
+#l19
+{
+	width:132.433px;
+	left:220.456px;
+	top:252.186px;
+	-webkit-transform:rotate(-2.03795rad);
+}
+#l20
+{
+	width:157.268px;
+	left:181.994px;
+	top:366.647px;
+	-webkit-transform:rotate(-3.92228rad);
+}
+#l21
+{
+	width:161.834px;
+	left:44.7693px;
+	top:356.259px;
+	-webkit-transform:rotate(-3.96924rad);
+}
+#l22
+{
+	width:122.877px;
+	left:-3.13333px;
+	top:475.968px;
+	-webkit-transform:rotate(-4.50531rad);
+}
+#l23
+{
+	width:108.642px;
+	left:8.67919px;
+	top:362.104px;
+	-webkit-transform:rotate(-1.71743rad);
+}
+#l24
+{
+	width:150.521px;
+	left:37.3167px;
+	top:478.534px;
+	-webkit-transform:rotate(-2.15709rad);
+}
+#l25
+{
+	width:133.968px;
+	left:70.8668px;
+	top:418.915px;
+	-webkit-transform:rotate(-3.09571rad);
+}
+#l26
+{
+	width:84.3517px;
+	left:31.3529px;
+	top:65.4079px;
+	-webkit-transform:rotate(-3.73087rad);
+}
+#l27
+{
+	width:106.041px;
+	left:108.288px;
+	top:47.6352px;
+	-webkit-transform:rotate(-3.0345rad);
+}
+#l28
+{
+	width:125.916px;
+	left:54.7916px;
+	top:302.521px;
+	-webkit-transform:rotate(-3.23456rad);
+}
+#l29
+{
+	width:128.744px;
+	left:154.272px;
+	top:244.87px;
+	-webkit-transform:rotate(-4.07692rad);
+}
+#l30
+{
+	width:127.651px;
+	left:128.775px;
+	top:359.332px;
+	-webkit-transform:rotate(-1.76255rad);
+}
+#l31
+{
+	width:151.659px;
+	left:44.6147px;
+	top:250.296px;
+	-webkit-transform:rotate(-2.48346rad);
+}
+#l32
+{
+	width:127.152px;
+	left:417.952px;
+	top:530.304px;
+	-webkit-transform:rotate(-3.32417rad);
+}
+#l33
+{
+	width:142.22px;
+	left:358.231px;
+	top:471.492px;
+	-webkit-transform:rotate(-4.56656rad);
+}
+#l34
+{
+	width:108.665px;
+	left:45.6128px;
+	top:538.66px;
+	-webkit-transform:rotate(-3.09435rad);
+}
+#l35
+{
+	width:157.255px;
+	left:413.233px;
+	top:459.949px;
+	-webkit-transform:rotate(-2.29657rad);
+}
+#l36
+{
+	width:162.768px;
+	left:465.781px;
+	top:437.436px;
+	-webkit-transform:rotate(-4.67406rad);
+}
+#l37
+{
+	width:117.15px;
+	left:-9.11523px;
+	top:146.382px;
+	-webkit-transform:rotate(-1.7596rad);
+}
+#l38
+{
+	width:115.558px;
+	left:449.276px;
+	top:99.7254px;
+	-webkit-transform:rotate(-3.9479rad);
+}
+#l39
+{
+	width:129.641px;
+	left:417.657px;
+	top:52.3298px;
+	-webkit-transform:rotate(-3.05363rad);
+}
+#l40
+{
+	width:148.387px;
+	left:477.06px;
+	top:132.098px;
+	-webkit-transform:rotate(-1.62752rad);
+}
+#l41
+{
+	width:110.865px;
+	left:359.591px;
+	top:160.524px;
+	-webkit-transform:rotate(-3.49331rad);
+}
+#l42
+{
+	width:123.288px;
+	left:343.037px;
+	top:225.022px;
+	-webkit-transform:rotate(-2.31369rad);
+}
+#l43
+{
+	width:143.88px;
+	left:318.505px;
+	top:113.128px;
+	-webkit-transform:rotate(-4.32072rad);
+}
+#l44
+{
+	width:106.98px;
+	left:256.428px;
+	top:186.342px;
+	-webkit-transform:rotate(-3.26759rad);
+}
+#l45
+{
+	width:126.124px;
+	left:273.897px;
+	top:122.179px;
+	-webkit-transform:rotate(-1.99621rad);
+}
+#l46
+{
+	width:104.589px;
+	left:5.4636px;
+	top:256.141px;
+	-webkit-transform:rotate(-4.66084rad);
+}
+#l47
+{
+	width:130.884px;
+	left:377.585px;
+	top:335.78px;
+	-webkit-transform:rotate(-4.66114rad);
+}
+#l48
+{
+	width:119.422px;
+	left:435.268px;
+	top:378.624px;
+	-webkit-transform:rotate(-3.52817rad);
+}
+#l49
+{
+	width:130.645px;
+	left:391.398px;
+	top:205.925px;
+	-webkit-transform:rotate(-4.5534rad);
+}
+#l50
+{
+	width:106.778px;
+	left:389.096px;
+	top:94.0311px;
+	-webkit-transform:rotate(-2.04918rad);
+}
+#l51
+{
+	width:109.573px;
+	left:456.475px;
+	top:173.799px;
+	-webkit-transform:rotate(-2.50943rad);
+}
+#l52
+{
+	width:129.51px;
+	left:114.736px;
+	top:481.607px;
+	-webkit-transform:rotate(-4.31144rad);
+}
+#l53
+{
+	width:134.68px;
+	left:430.991px;
+	top:313.268px;
+	-webkit-transform:rotate(-2.45199rad);
+}
+#l54
+{
+	width:126.598px;
+	left:437.62px;
+	top:238.298px;
+	-webkit-transform:rotate(-3.67391rad);
+}
+#l55
+{
+	width:146.176px;
+	left:162.35px;
+	top:123.183px;
+	-webkit-transform:rotate(-1.86814rad);
+}
+#l56
+{
+	width:97.5808px;
+	left:213.689px;
+	top:59.0203px;
+	-webkit-transform:rotate(-3.02413rad);
+}
+#l57
+{
+	width:108.495px;
+	left:310.173px;
+	top:55.6869px;
+	-webkit-transform:rotate(-3.30923rad);
+}
+#l58
+{
+	width:139.256px;
+	left:214.264px;
+	top:128.901px;
+	-webkit-transform:rotate(-4.31354rad);
+}
+#l59
+{
+	width:150.029px;
+	left:477.857px;
+	top:281.142px;
+	-webkit-transform:rotate(-4.67788rad);
+}
+#a
+{
+	left:124.863px;
+	top:122.701px;
+}
+#b
+{
+	left:295.321px;
+	top:404.662px;
+}
+#c
+{
+	left:246.956px;
+	top:514.054px;
+}
+#d
+{
+	left:283.992px;
+	top:278.807px;
+}
+#e
+{
+	left:38.4373px;
+	top:383.342px;
+}
+#f
+{
+	left:76.0913px;
+	top:9.46807px;
+}
+#g
+{
+	left:147.936px;
+	top:264.176px;
+}
+#h
+{
+	left:386.508px;
+	top:509.347px;
+}
+#i
+{
+	left:13.1734px;
+	top:503.594px;
+}
+#j
+{
+	left:511.547px;
+	top:486.261px;
+}
+#k
+{
+	left:5.9663px;
+	top:56.3477px;
+}
+#l
+{
+	left:514.547px;
+	top:25.5241px;
+}
+#m
+{
+	left:330.484px;
+	top:147.121px;
+}
+#n
+{
+	left:22.5635px;
+	top:275.866px;
+}
+#o
+{
+	left:407.175px;
+	top:368.636px;
+}
+#p
+{
+	left:434.562px;
+	top:108.927px;
+}
+#q
+{
+	left:121.717px;
+	top:508.726px;
+}
+#r
+{
+	left:413.879px;
+	top:237.924px;
+}
+#s
+{
+	left:181.525px;
+	top:20.8023px;
+}
+#t
+{
+	left:385.407px;
+	top:14.1355px;
+}
+#u
+{
+	left:224.352px;
+	top:160.564px;
+}
+#v
+{
+	left:172.264px;
+	top:389.487px;
+}
+#w
+{
+	left:278.433px;
+	top:32.2383px;
+}
+#x
+{
+	left:27.9528px;
+	top:171.416px;
+}
+#y
+{
+	left:517.784px;
+	top:323.612px;
+}
+#z
+{
+	left:522.96px;
+	top:173.672px;
+}
